@@ -8,6 +8,7 @@ function App() {
       <div className="App">
         <h1>This is react app</h1>
         <About />
+        <p>This is some code.</p>
       </div>
     </NoteState>
   );
